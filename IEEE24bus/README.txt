@@ -1,0 +1,1 @@
+The generation costs should be multiplied by 8760 and the costs of building lines should be divided by 10.
